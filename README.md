@@ -45,6 +45,5 @@ A **powerful AI chatbot** built using **Google's Gemini API** and deployed with 
 ## 📜 License
 This project is licensed under the **MIT License**.
 
----
-**Contributions & Issues:** Feel free to contribute or report issues in the repository! 🚀
+
 
